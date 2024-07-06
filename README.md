@@ -1,5 +1,8 @@
 # Hi 👋, I'm Jung Tae Cha
-### Freelance iOS Developer
+
+![hero-bg](https://github.com/chonte0313/chonte0313/assets/67182331/5768b366-b566-4c1b-9a6b-dab7f6115780)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
