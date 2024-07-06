@@ -2,13 +2,11 @@
 
 ![hero-bg](https://github.com/chonte0313/chonte0313/assets/67182331/5768b366-b566-4c1b-9a6b-dab7f6115780)
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chonte0313&show_icons=true&locale=en&layout=compact" alt="chonte0313"  height="200"  /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chonte0313&show_icons=true&locale=en" alt="chonte0313"  height="200"  /></p>
+Hi there, I'm Jung, a recent graduate from CSULA with a specialization in iOS application development. With over 50 apps crafted during my freelance journey as a level 2 seller on Fiverr, I've developed a deep passion for creating meaningful user experiences that drive results.
 
 
-#### Languages and Tools:
+
+## Languages and Tools:
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
@@ -21,6 +19,12 @@
 [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=Adobe%20Photoshop&logoColor=black)](#)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
 [![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#)
+
+## Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chonte0313&show_icons=true&locale=en&layout=compact" alt="chonte0313"  height="200"  /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chonte0313&show_icons=true&locale=en" alt="chonte0313"  height="200"  /></p>
+
 
 
 
