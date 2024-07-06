@@ -21,8 +21,8 @@ Hi there, I'm Jung, a recent graduate from CSULA with a specialization in iOS ap
 [![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#)
 
 ## Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chonte0313&show_icons=true&locale=en&layout=compact" alt="chonte0313"  height="200"  /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chonte0313&show_icons=true&locale=en" alt="chonte0313"  height="200"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chonte0313&show_icons=true&locale=en&layout=compact" alt="chonte0313"  height="175"  /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chonte0313&show_icons=true&locale=en" alt="chonte0313"  height="175"  /></p>
 
 
 
